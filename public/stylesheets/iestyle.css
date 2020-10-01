@@ -34,7 +34,7 @@ ul {
 
 h1 {
 	font-family: 'Optima', Arial, sans-serif;
-	font-weight: lighter;
+	font-weight: lighter;         //pls add comments for better understanding
 	-webkit-margin-after: 0;
 	-webkit-margin-before: 0;
 	padding-bottom: 25px;
